@@ -2,7 +2,15 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Daniel Arackal — Industrial Engineering & Computer Science",
+  title: "Daniel's Portfolio",
+  icons: {
+    icon: [
+      { url: "/favicons/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicons/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicons/favicon.ico" },
+    ],
+    apple: "/favicons/apple-touch-icon.png",
+  },
   description:
     "Junior at Texas A&M building quantitative models, cloud infrastructure, and software that solves real problems.",
   openGraph: {
