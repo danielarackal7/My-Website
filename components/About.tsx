@@ -14,7 +14,7 @@ export default function About() {
           <p className="mb-5">
             I&apos;m an{" "}
             <span className="text-t-primary font-semibold">
-              Industrial Engineering
+              Data Engineering
             </span>{" "}
             major with a{" "}
             <span className="text-t-primary font-semibold">
