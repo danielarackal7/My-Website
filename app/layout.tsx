@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Daniel Arackal",
     description:
-      "Industrial Engineering & Computer Science at Texas A&M University",
+      "Data Engineering & Computer Science at Texas A&M University",
     url: "https://danielarackal.com",
     siteName: "Daniel Arackal",
     type: "website",
